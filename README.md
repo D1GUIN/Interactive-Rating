@@ -5,7 +5,7 @@ Essa é uma solução de um desfio de [Interactive rating component challenge on
 
 ### Link
 
-- URL da Solução: https://d1guin.github.io/Interactive-Rating/
+- URL da Solução: https://d1guin.github.io/interactiveRating/
 
 ## Meu processo
 
