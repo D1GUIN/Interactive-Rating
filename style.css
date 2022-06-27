@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+
+body{
+    background-color: hsl(216, 12%, 8%);
+    font-family: 'Overpass', sans-serif;
+    
+}
+
+#box{
+    background: hsl(213, 19%, 18%);
+    padding: 25px;
+    border-radius: 5%;
+    width: 340px;
+    height: 340px;
+    margin: 8rem auto;
+}
+
+/* buttons */
+
+.btn-submit{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: white;
+    border-style: none;
+    border-radius: 20px;
+    background-color: hsl(25, 97%, 53%);
+    width: 100%;
+    height: 36px;
+}
+
+.circle{
+    margin: 0px 10px;
+    padding: 17px 20px;
+    border-style: none;
+    border-radius: 50%;
+    color: hsl(217, 12%, 63%);
+    background-color: hsl(217, 11%, 23%);
+}
+
+.circle:hover{
+    color: white;
+    background-color: hsl(216, 12%, 54%);
+}
+
+.circle:first-child{
+    margin-left: 0px;
+}
+
+.circle:last-child{
+    margin-right: 0px;
+}
+
+.star{
+    margin-bottom: 5px;
+    padding: 15px;
+    border-style: none;
+    border-radius: 50%;
+    background-color: hsl(217, 11%, 23%);
+}
+
+/* Text */
+
+
+
+.title{
+    margin-top: 1rem;
+    margin-bottom: 5px;
+    font-size: 30px;
+    color: white;
+}
+
+.comment{
+    margin: 0px;
+    line-height: 25px;
+    Font-size: 15px;
+    color:hsl(217, 12%, 63%);
+}
+
+/* divs */
+
+#numbers{
+    margin: 1.5rem 0rem;
+}
+
+#submit{
+    align-items: center;
+}
+
+/* pressed buttons */
+
+.circlePressed{
+    color: white;
+    background-color: hsl(25, 97%, 53%);
+}
+
+.submitPressed{
+    background-color: white;
+    color: red;
+}
+
+/* hide section*/
+
+/* isHide */
+
+.is-hide{
+    display: none;
+}
+
+/* rate */
+
+.selectedRate{
+    border-radius: 20px;
+    padding: 8px;
+    color: hsl(25, 97%, 53%);
+    width: 190px;
+}
+
+#congratulation{
+    text-align: center;
+}
+
+#thankRate{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#thanksIlustration{
+    margin-top: 10px;
+}
