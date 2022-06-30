@@ -1,35 +1,34 @@
-# Frontend Mentor - Solução de componente de classificação interativa
+# Frontend Mentor - Interactive ranking component solution
 
-Essa é uma solução de um desfio de [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
+This is a solution from an [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) challenge.
 
 
 ### Link
 
-- URL da Solução: https://d1guin.github.io/interactiveRating/
+- Solution URL: (https://d1guin.github.io/interactiveRating/)
 
-## Meu processo
+## My process
 
-### Construido com
+### Built with
 
 - CSS
 - HTML5
 - JQuery
 
-### Oque eu aprendi
+### What I've learned
 
-Nesse pequeno desafio que resolvi, vi como é difícil escrever código sozinho. Apesar de ser difícil, aprendi muito, colocando em prática o que havia estudado por um tempo.
+In this little challenge I solved, I saw how difficult it is to write code alone. Despite being difficult, I learned a lot, putting into practice what I had studied for a while.
 
-Aprendi um pouco mais sobre javaScript coisas que eu não sabia, assim, entendendo ainda mais sobre lógica de programação.
+I learned a little more about javaScript things I didn't know, thus understanding even more about programming logic.
 
-### Desenvolvimento contínuo
+### Continuous development
 
-Vi que ainda estou acumulando muito código desnecessário. Pretendo melhorar nesta área, pois sinto que ainda não é suficiente (na verdade, nunca é).
+I saw that I'm still accumulating a lot of unnecessary code. I intend to improve in this area as I feel it is still not enough (in fact, it never is).
 
-### Oque me ajudou
+### What helped me
 
-Oque me ajudou bastante foi conselho de outras pessoas, sobre partes que eu não conseguia resolver.
+What helped me a lot was advice from other people, about parts I couldn't solve.
 
-## Autor
+## Author
 
 - Diego Valois
-
