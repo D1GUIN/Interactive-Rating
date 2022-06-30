@@ -5,7 +5,7 @@ This is a solution from an [Interactive rating component challenge on Frontend M
 
 ### Link
 
-- Solution URL: (https://d1guin.github.io/interactiveRating/)
+- Solution URL: (https://diegovalois.github.io/interactiveRating/)
 
 ## My process
 
